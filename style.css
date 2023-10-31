@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    color: chartreuse;
+    color: rgba(255, 255, 255, 0.116);
     text-decoration: underline;
 }
 
