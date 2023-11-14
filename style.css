@@ -55,3 +55,18 @@ background: linear-gradient(90deg, rgb(105, 105, 110) 0%, rgb(105, 105, 110) 35%
     font-size: 35px;
     text-align: center;
 }
+
+.servico {
+display: flex;
+width: 100vw;
+height: 300px;
+justify-content: space-evenly;
+align-items: center;
+}
+
+.item-servico {
+    display: flex;
+width: 15%;
+height: 290px;
+border:1px solid #ffffff;
+}
