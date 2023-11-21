@@ -56,6 +56,13 @@ background: linear-gradient(90deg, rgb(105, 105, 110) 0%, rgb(105, 105, 110) 35%
     text-align: center;
 }
 
+h2 {
+    color: white;
+    text-align:center;
+    text-transform:uppercase;
+    font-size: 40px;
+    padding: 1%;
+}
 .servico {
 display: flex;
 width: 100vw;
