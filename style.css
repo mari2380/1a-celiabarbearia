@@ -83,4 +83,21 @@ align-items: flex-start;
 border-radius: 15px;
 text-transform:uppercase;
     font-size: 40px;
+
+}
+
+#item {
+    background-image: url(https://images.pexels.com/photos/1022936/pexels-photo-1022936.jpegv);
+    background-size: cover;
+}
+
+#item {
+    background-image: url(https://images.pexels.com/photos/895227/pexels-photo-895227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+
+
+#item {
+    background-image: url(https://images.pexels.com/photos/1080696/pexels-photo-1080696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
 }
